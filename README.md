@@ -12,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Languages and Tools:**
+
+<code><img height="20" src="./assets/apachespark.svg" title="Apache Spark"></code>
+<code><img height="20" src="./assets/scala.svg" title="Scala"></code>
+<code><img height="20" src="./assets/java.svg" title="Java"></code>
+<code><img height="20" src="./assets/python.svg" title="Python"></code>
+<code><img height="20" src="./assets/docker.svg" title="Docker"></code>
+<code><img height="20" src="./assets/github.svg" title="Github"></code>
+<code><img height="20" src="./assets/linux.svg" title="Linux"></code>
+<code><img height="20" src="./assets/powershell.svg" title="shell"></code>
+<code><img height="20" src="./assets/apachekafka.svg" title="Apache Kafka"></code>
+
+> _Note: These icons all come from https://simpleicons.org/_
